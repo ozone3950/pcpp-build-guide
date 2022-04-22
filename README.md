@@ -45,7 +45,7 @@ Total Cost: `£1052.97`
 Quite a few things in this build is the same or very similar to the previous ones, such as the motherboard, memory, SSD (apart from the capacity being higher), and power supply. This is because the parts are very good value and don't need to be changed, making the budget more focused on other upgrades. The CPU is very good for gaming, and even some productivity tasks, and the graphics card is fine for gaming at 1440p 144 FPS with ease, and finally, the case is just a bit better than the previous one.
 
 
-## [High End Build -£1600](https://uk.pcpartpicker.com/list/hrYtnt)
+## [High End Build -£1600](https://uk.pcpartpicker.com/list/Ps6jZw)
 
 - **CPU:** Intel Core i7-12700F `£302.21`
 - **Cooler:** Deepcool AK620 `£54.99`
@@ -54,7 +54,7 @@ Quite a few things in this build is the same or very similar to the previous one
 - **Storage:** WD Blue SN570 1TB `£76.98`
 - **GPU:** XFX 6800XT SWIFT 319 `£809.99`
 - **Case:** Cougar MX410 MESH-G RGB ATX `£56.99`
-- **PSU:** Fractal Design Ion Gold 750W `£69.95`
+- **PSU:** BitFenix Formula Gold 750W `£79.86`
 
 Total: `£1628.47`
 
