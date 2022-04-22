@@ -26,7 +26,7 @@ This month will be a bit early since I just want to make the first few lists.
 
 Total Cost: `£704.81`
 
-This build suits most people fine in 1080p 144hz gaming. The CPU will last a while in gaming and other single threaded tasks, the motherboard is good value and comes with WiFi, the memory is at pretty decent speed and can be overclocked fairly well, due to it having the Micron Rev. E IC. The SSD is cheap, fast, and has enough capacity for a good amount of games. The graphics card is very good value and will be able to play a lot of games at 1080p 144 FPS. The case is cheap, has good airflow, has fans, and looks pretty nice. And lastly, the power supply is good value, and good enough to last quite a few upgrades.
+This build suits most people fine in 1080p 144hz gaming. The CPU will last a while in gaming and other single threaded tasks, the motherboard is good value and comes with WiFi, the memory is at pretty decent speed and can be overclocked fairly well, due to it having the Micron Rev. E IC. The SSD is cheap, fast, and has enough capacity for a good amount of games. The graphics card is very good value and will be able to play a lot of games at 1080p 144 FPS. The case is cheap, has sufficient airflow, has fans, and looks pretty nice. And lastly, the power supply is good value, and good enough to last quite a few upgrades.
 
 
 ## [Midrange Build -  £1050](https://uk.pcpartpicker.com/list/ZqHLsL)
