@@ -9,6 +9,54 @@ There will be different budgets each month, but I will try and keep them around 
 
 
 
+# May 2022 (28/4/22)
+
+Continuing from last month, each new addition to this repository will be posted on the last third of the month.
+
+## [Entry Level Build - £700](https://uk.pcpartpicker.com/list/RYs3wc)
+
+- **CPU:** Intel Core i3-12100F `£90.99`
+- **Cooler:** Intel Boxed Cooler `Free`
+- **Motherboard:** Asus PRIME B660-PLUS ATX `£80.70`
+- **Memory:** Team T-FORCE VULCAN Z 16GB (2x8GB) 3200MHz CL16 `£53.90`
+- **Storage:** WD Blue SN570 1TB `£72.98`
+- **GPU:** Gigabyte 6600 EAGLE `£305.98`
+- **Case:** Deepcool MATREXX 55 MESH ATX `£39.99`
+- **PSU:** be quiet! Pure Power FM 550W `£65.99`
+
+Total Cost: `£710.53`
+
+
+## [Midrange Build - £1000](https://uk.pcpartpicker.com/list/F37DjZ)
+
+- **CPU:** Intel Core i5-12400F `£161.99`
+- **Cooler:** Deepcool AK400 `£29.99`
+- **Motherboard:** Asus PRIME B660-PLUS ATX `£80.70`
+- **Memory:** Team T-FORCE VULCAN Z 16GB (2x8GB) 3200MHz CL16 `£53.90`
+- **Storage:** WD Blue SN570 1TB `£72.98`
+- **GPU:** MSI 6700XT MECH 2X `£488.84`
+- **Case:** Deepcool MATREXX 55 MESH ATX `£39.99`
+- **PSU:** BitFenix Formula Gold 650W `£73.26`
+
+Total Cost: `£1001.65`
+
+
+## [High End Build - £1600](https://uk.pcpartpicker.com/list/yhC2xs)
+- **CPU:** Intel Core i7-12700 `£316.99`
+- **Cooler:** Deepcool AK620 `£48.99`
+- **Motherboard:** MSI PRO B660M-A `£136.93`
+- **Memory:** Crucial Ballistix 32GB (2x16GB) 3200MHz `£109.99`
+- **Storage:** WD Blue SN570 1TB `£72.98`
+- **GPU:** XFX 6800XT 319 SWIFT `£109.99`
+- **Case:** Cougar MX410 MESH-G RGB ATX `£58.21`
+- **PSU:** BitFenix Formula Gold 750W `£79.86`
+
+
+
+
+
+
+
 # April 2022 (22/4/22)
 
 This month will be a bit early since I just want to make the first few lists.
