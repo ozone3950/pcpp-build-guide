@@ -8,7 +8,6 @@ There will be different budgets each month, but I will try and keep them around 
 
 
 
-
 # May 2022 (28/4/22)
 
 Continuing from last month, each new addition to this repository will be posted on the last third of the month.
