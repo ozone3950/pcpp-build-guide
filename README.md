@@ -50,7 +50,7 @@ Total Cost: `£1001.65`
 - **Case:** Cougar MX410 MESH-G RGB ATX `£58.21`
 - **PSU:** BitFenix Formula Gold 750W `£79.86`
 
-
+Total Cost: `£1603.94`
 
 
 
